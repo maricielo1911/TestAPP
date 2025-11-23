@@ -1,0 +1,5 @@
+{
+  "name": "Car ECU Monitor & AI Diagnostics",
+  "description": "A web application that simulates monitoring a car's ECU data via OBD2. It features a customizable dashboard with gauges for speed, RPM, and more, along with an AI-powered diagnostic tool to explain and manage error codes.",
+  "requestFramePermissions": []
+}
