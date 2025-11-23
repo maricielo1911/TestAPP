@@ -1,0 +1,21 @@
+{
+  "name": "Car ECU Monitor & AI Diagnostics",
+  "short_name": "ECU Monitor",
+  "description": "A web application that simulates monitoring a car's ECU data via OBD2. It features a customizable dashboard with gauges for speed, RPM, and more, along with an AI-powered diagnostic tool to explain and manage error codes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
